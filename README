@@ -1,0 +1,5 @@
+offsec-scripts - collection of useful scripts that are likely to be reused during boot2root challenges or similar engagements.
+
+Overview:
+
+TraversalProcEnum.py - Enumerate processes running on linux host via the path traversal vulnerability.
